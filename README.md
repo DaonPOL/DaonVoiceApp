@@ -1,4 +1,4 @@
 # DaonVoiceApp
 Pointer to DaonVoiceApp which is now moved to a private repository at:
-DaonPOL/DaonVoiceApp
+https://github.com/daoninc/DaonProofOfLifeWebApp
 
